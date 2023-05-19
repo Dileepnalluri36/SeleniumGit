@@ -34,6 +34,9 @@ public class StaticVar {
 		obj.getData();
 		obj1.getData();
 		StaticVar.getName();//For static methods,we need to use class
+		System.out.println("Hi");
+		System.out.println("Hi2");
+		System.out.println("Hi3");
 	}
 
 }
