@@ -39,7 +39,11 @@ public class StaticVar {
 		System.out.println("Hi3");
 		
 		//New changes
-	
+	System.out.println("Branch changes");
+	System.out.println("Branch changes");
+	System.out.println("Branch changes");
+	System.out.println("Branch changes");
+	System.out.println("Branch changes");
 	}
 
 }
