@@ -39,9 +39,7 @@ public class StaticVar {
 		System.out.println("Hi3");
 		
 		//New changes
-		System.out.println("Hi6");
-		System.out.println("Hi4");
-		System.out.println("Hi5");
+	
 	}
 
 }
