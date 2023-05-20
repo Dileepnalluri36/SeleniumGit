@@ -44,6 +44,8 @@ public class StaticVar {
 	System.out.println("Branch changes");
 	System.out.println("Branch changes");
 	System.out.println("Branch changes");
+	//Master develop changes
+	System.out.println("Master develop changes");
 	}
 
 }
